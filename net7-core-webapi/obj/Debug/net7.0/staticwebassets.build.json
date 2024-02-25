@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7TFqE/P2yU1yPIoOk85mOhHOsvND8nToaBtnWBZKN4Y=",
+  "Source": "net7-core-webapi",
+  "BasePath": "_content/net7-core-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
